@@ -34,3 +34,40 @@ c:\users\cursonet\documents\visual studio 2015\Projects\PuertoVaras\PuertoVaras\
 c:\users\cursonet\documents\visual studio 2015\Projects\PuertoVaras\PuertoVaras\bin\System.Web.Mvc.xml
 c:\users\cursonet\documents\visual studio 2015\Projects\PuertoVaras\PuertoVaras\obj\Debug\PuertoVaras.dll
 c:\users\cursonet\documents\visual studio 2015\Projects\PuertoVaras\PuertoVaras\obj\Debug\PuertoVaras.pdb
+C:\Users\Fer\Documents\FinalNet\FinalNet\PuertoVaras\bin\roslyn\csc.exe
+C:\Users\Fer\Documents\FinalNet\FinalNet\PuertoVaras\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Fer\Documents\FinalNet\FinalNet\PuertoVaras\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Fer\Documents\FinalNet\FinalNet\PuertoVaras\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Fer\Documents\FinalNet\FinalNet\PuertoVaras\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Fer\Documents\FinalNet\FinalNet\PuertoVaras\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Fer\Documents\FinalNet\FinalNet\PuertoVaras\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Fer\Documents\FinalNet\FinalNet\PuertoVaras\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Fer\Documents\FinalNet\FinalNet\PuertoVaras\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Fer\Documents\FinalNet\FinalNet\PuertoVaras\bin\roslyn\vbc.exe
+C:\Users\Fer\Documents\FinalNet\FinalNet\PuertoVaras\bin\roslyn\VBCSCompiler.exe
+C:\Users\Fer\Documents\FinalNet\FinalNet\PuertoVaras\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Fer\Documents\FinalNet\FinalNet\PuertoVaras\bin\PuertoVaras.dll.config
+C:\Users\Fer\Documents\FinalNet\FinalNet\PuertoVaras\bin\PuertoVaras.dll
+C:\Users\Fer\Documents\FinalNet\FinalNet\PuertoVaras\bin\PuertoVaras.pdb
+C:\Users\Fer\Documents\FinalNet\FinalNet\PuertoVaras\bin\EntityFramework.dll
+C:\Users\Fer\Documents\FinalNet\FinalNet\PuertoVaras\bin\EntityFramework.SqlServer.dll
+C:\Users\Fer\Documents\FinalNet\FinalNet\PuertoVaras\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Fer\Documents\FinalNet\FinalNet\PuertoVaras\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Fer\Documents\FinalNet\FinalNet\PuertoVaras\bin\System.Web.Helpers.dll
+C:\Users\Fer\Documents\FinalNet\FinalNet\PuertoVaras\bin\System.Web.Mvc.dll
+C:\Users\Fer\Documents\FinalNet\FinalNet\PuertoVaras\bin\System.Web.Razor.dll
+C:\Users\Fer\Documents\FinalNet\FinalNet\PuertoVaras\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Fer\Documents\FinalNet\FinalNet\PuertoVaras\bin\System.Web.Webpages.dll
+C:\Users\Fer\Documents\FinalNet\FinalNet\PuertoVaras\bin\System.Web.Webpages.Razor.dll
+C:\Users\Fer\Documents\FinalNet\FinalNet\PuertoVaras\bin\EntityFramework.xml
+C:\Users\Fer\Documents\FinalNet\FinalNet\PuertoVaras\bin\EntityFramework.SqlServer.xml
+C:\Users\Fer\Documents\FinalNet\FinalNet\PuertoVaras\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Fer\Documents\FinalNet\FinalNet\PuertoVaras\bin\System.Web.Razor.xml
+C:\Users\Fer\Documents\FinalNet\FinalNet\PuertoVaras\bin\System.Web.Webpages.xml
+C:\Users\Fer\Documents\FinalNet\FinalNet\PuertoVaras\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Fer\Documents\FinalNet\FinalNet\PuertoVaras\bin\System.Web.Webpages.Razor.xml
+C:\Users\Fer\Documents\FinalNet\FinalNet\PuertoVaras\bin\System.Web.Helpers.xml
+C:\Users\Fer\Documents\FinalNet\FinalNet\PuertoVaras\bin\System.Web.Mvc.xml
+C:\Users\Fer\Documents\FinalNet\FinalNet\PuertoVaras\obj\Debug\PuertoVaras.csproj.CoreCompileInputs.cache
+C:\Users\Fer\Documents\FinalNet\FinalNet\PuertoVaras\obj\Debug\PuertoVaras.dll
+C:\Users\Fer\Documents\FinalNet\FinalNet\PuertoVaras\obj\Debug\PuertoVaras.pdb
