@@ -71,3 +71,7 @@ C:\Users\Fer\Documents\FinalNet\FinalNet\PuertoVaras\bin\System.Web.Mvc.xml
 C:\Users\Fer\Documents\FinalNet\FinalNet\PuertoVaras\obj\Debug\PuertoVaras.csproj.CoreCompileInputs.cache
 C:\Users\Fer\Documents\FinalNet\FinalNet\PuertoVaras\obj\Debug\PuertoVaras.dll
 C:\Users\Fer\Documents\FinalNet\FinalNet\PuertoVaras\obj\Debug\PuertoVaras.pdb
+C:\Users\cursonet\Documents\Visual Studio 2015\Projects\PuertoVaras\PuertoVaras\bin\System.Web.Providers.dll
+C:\Users\cursonet\Documents\Visual Studio 2015\Projects\PuertoVaras\PuertoVaras\bin\System.Web.Providers.xml
+C:\Users\cursonet\Documents\Visual Studio 2015\Projects\PuertoVaras\PuertoVaras\obj\Debug\PuertoVaras.Migrations.InitialCreate.resources
+C:\Users\cursonet\Documents\Visual Studio 2015\Projects\PuertoVaras\PuertoVaras\obj\Debug\PuertoVaras.csproj.GenerateResource.Cache

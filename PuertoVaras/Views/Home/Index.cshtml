@@ -42,13 +42,24 @@
     }
 </style>
 <body>
-    <div id="main">
-        <p>
-            @Html.ActionLink("Login", "Index", "Login", null, null)
-        </p>
-        <p>
-            @Html.ActionLink("Registrarse", "Index", "Register", null, null)
-        </p>
+    <div class="login-controls">
+        @if (Request.IsAuthenticated)
+        {
+            <div>
+                Hello, @System.Globalization.CultureInfo.CurrentCulture.TextInfo.ToTitleCase(User.Identity.Name).
+                @Html.ActionLink("Habitaciones", "Index", "Habitacion")
+                @Html.ActionLink("Clientes", "Index", "Clientes")
+                @Html.ActionLink("Log Off", "LogOff", "Account")
+                @Html.ActionLink("Reset Password", "ResetPassword", "Account")
+            </div>
+        }
+        else
+        {
+            <div>
+                @Html.ActionLink("Log In", "Login", "Account")
+                @Html.ActionLink("Register", "Register", "Account")
+            </div>
+        }
     </div>
 </body> 
 
